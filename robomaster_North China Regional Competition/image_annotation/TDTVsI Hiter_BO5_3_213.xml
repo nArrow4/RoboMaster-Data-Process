@@ -1,0 +1,15 @@
+<annotation>
+    <filename>TDTVsI Hiter_BO5_3_213.jpg</filename>
+    <version>v3.0</version>
+    <review_status>passed</review_status>
+    <time_elapsed>186</time_elapsed>
+    <img_label/>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+    </size>
+    <padding_pxt>
+        <padding_x>76</padding_x>
+        <padding_y>43</padding_y>
+    </padding_pxt>
+</annotation>
